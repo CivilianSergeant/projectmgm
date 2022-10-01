@@ -1,6 +1,6 @@
 # projectmgm
 
-## Database and Table
+## Database and Table Spec
 ### Database: project_management
 ```
 CREATE TABLE `projects` (
